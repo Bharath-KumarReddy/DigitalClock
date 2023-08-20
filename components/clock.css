@@ -1,0 +1,20 @@
+/* Clock.css */
+.clock {
+    text-align: center;
+    font-size: 72px;
+    background-color: red;
+    color: yellowgreen;
+    min-width: 380px;
+    box-shadow: 10px 10px 10px blue;
+    padding: 10px;
+    border-radius: 10px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  body {
+    background-color: black;
+  }
+  
